@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Killbox
+  - Platform
+  - Objective
+  - Plasma
+  - Enemy
+  - Bolt
   layers:
   - Default
   - TransparentFX
