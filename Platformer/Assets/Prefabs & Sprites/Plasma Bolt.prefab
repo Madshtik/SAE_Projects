@@ -111,7 +111,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BoltRange: 1.5
   Bolt: {fileID: 54710949345176908}
-  BoltSpeed: 500
+  BoltSpeed: 250
 --- !u!135 &135910133179749788
 SphereCollider:
   m_ObjectHideFlags: 1
