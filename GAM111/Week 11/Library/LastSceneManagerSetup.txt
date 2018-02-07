@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/ASUS/Desktop/Uni Stuff/T1 Assignments/MDU112-1_SethielJannCosio/Assets/MainScene.unity
+  isLoaded: 1
+  isActive: 1

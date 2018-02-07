@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post-Processing", "Post-Processing.csproj", "{EFA18CEB-5E6A-F2FB-07EF-6B8A4B4FB996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post-Processing.Editor", "Post-Processing.Editor.csproj", "{929BA023-8CF9-0390-F09D-F6E60DD97B7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA18CEB-5E6A-F2FB-07EF-6B8A4B4FB996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA18CEB-5E6A-F2FB-07EF-6B8A4B4FB996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA18CEB-5E6A-F2FB-07EF-6B8A4B4FB996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA18CEB-5E6A-F2FB-07EF-6B8A4B4FB996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{929BA023-8CF9-0390-F09D-F6E60DD97B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929BA023-8CF9-0390-F09D-F6E60DD97B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929BA023-8CF9-0390-F09D-F6E60DD97B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929BA023-8CF9-0390-F09D-F6E60DD97B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
